@@ -48,4 +48,4 @@ Please implement a solution that allows us to reuse the styling for the buttons,
 
 The application has two models, a `User` and `Task`. We want to create an API for these resources.
 
-To keep things simple we want to just add one endpoint at this time for relieving the details of the authenticated user. This should also include the tasks that are associated with the user.
+To keep things simple we want to just add one endpoint at this time for retrieving the details of the authenticated user. This should also include the tasks that are associated with the user.
