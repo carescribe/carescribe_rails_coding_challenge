@@ -59,6 +59,8 @@ The application has two models, a `User` and `Task`. We would like you to create
 
 To keep things simple we only require a single endpoint at this time for retrieving the details of the authenticated user. The payload can be in whatever architectural style and format you think is best but should include the user with `email` and `full_name` attributes and also support including the tasks that are associated with the user.
 
+Additional endpoints such as creating tasks are not required. You'll be expected to describe how you would approach these in our conversation. That being said, we don't want to discourage you from adding these if you have sufficient time to.
+
 # Troubleshooting
 
 If you have issues related to `sassc`, try creating a new gemset if you are using a Ruby manager that supports this.
