@@ -2,7 +2,7 @@
 
 Welcome to the CareScribe Rails coding challenge!
 
-Below you will find a couple of tasks for this project, we'd like you to create a **private fork** this repository, add us as a collaborator ([@adambutler](https://github.com/adambutler/) / [@tomcartwrightuk](https://github.com/tomcartwrightuk)) and complete the challenge tasks as you see fit.
+Below you will find a couple of tasks for this project, we'd like you to create a **private fork** of this repository, add us as a collaborator ([@adambutler](https://github.com/adambutler/) / [@tomcartwrightuk](https://github.com/tomcartwrightuk)) and complete the challenge tasks as you see fit.
 
 We're happy for you to do this individually and at the end you'll have the opportunity to explain your approach and further steps you would have taken if you had more time to work on the project.
 
